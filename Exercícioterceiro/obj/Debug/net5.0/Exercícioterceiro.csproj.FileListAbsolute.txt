@@ -1,0 +1,16 @@
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.csprojAssemblyReference.cache
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.AssemblyInfoInputs.cache
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.AssemblyInfo.cs
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\bin\Debug\net5.0\Exercícioterceiro.exe
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\bin\Debug\net5.0\Exercícioterceiro.deps.json
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\bin\Debug\net5.0\Exercícioterceiro.runtimeconfig.json
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\bin\Debug\net5.0\Exercícioterceiro.runtimeconfig.dev.json
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\bin\Debug\net5.0\Exercícioterceiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\bin\Debug\net5.0\ref\Exercícioterceiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\bin\Debug\net5.0\Exercícioterceiro.pdb
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\ref\Exercícioterceiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.pdb
+E:\HD\SENAI\Atividade C#\Exercícioterceiro\obj\Debug\net5.0\Exercícioterceiro.genruntimeconfig.cache

@@ -41,7 +41,7 @@ namespace Exercícioprimeiro
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Desculpe, mas você é um difunto!!!\n");
+                    Console.WriteLine("Desculpe, mas você não está vivo!!!\n");
                     Console.ForegroundColor = ConsoleColor.White;
                     vezes++;
                 }
