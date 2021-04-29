@@ -1,0 +1,16 @@
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.csprojAssemblyReference.cache
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.AssemblyInfoInputs.cache
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.AssemblyInfo.cs
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\bin\Debug\net5.0\Exercíciosegundo.exe
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\bin\Debug\net5.0\Exercíciosegundo.deps.json
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\bin\Debug\net5.0\Exercíciosegundo.runtimeconfig.json
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\bin\Debug\net5.0\Exercíciosegundo.runtimeconfig.dev.json
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\bin\Debug\net5.0\Exercíciosegundo.dll
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\bin\Debug\net5.0\ref\Exercíciosegundo.dll
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\bin\Debug\net5.0\Exercíciosegundo.pdb
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.dll
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\ref\Exercíciosegundo.dll
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.pdb
+E:\HD\SENAI\Atividade C#\Exercíciosegundo\obj\Debug\net5.0\Exercíciosegundo.genruntimeconfig.cache

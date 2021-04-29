@@ -1,0 +1,16 @@
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.csprojAssemblyReference.cache
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.AssemblyInfoInputs.cache
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.AssemblyInfo.cs
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\bin\Debug\net5.0\Exercícioprimeiro.exe
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\bin\Debug\net5.0\Exercícioprimeiro.deps.json
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\bin\Debug\net5.0\Exercícioprimeiro.runtimeconfig.json
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\bin\Debug\net5.0\Exercícioprimeiro.runtimeconfig.dev.json
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\bin\Debug\net5.0\Exercícioprimeiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\bin\Debug\net5.0\ref\Exercícioprimeiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\bin\Debug\net5.0\Exercícioprimeiro.pdb
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\ref\Exercícioprimeiro.dll
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.pdb
+E:\HD\SENAI\Atividade C#\Exercícioprimeiro\obj\Debug\net5.0\Exercícioprimeiro.genruntimeconfig.cache
