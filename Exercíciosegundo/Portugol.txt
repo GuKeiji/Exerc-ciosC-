@@ -1,0 +1,19 @@
+programa
+{
+    int anoNascimento
+    int anoAtual
+    int idade
+    double semanas
+
+    inicio
+        Escreva("\nInsira o ano em que nasceu")
+        leia(anoNascimento)
+        Escreva("\nInsira o ano atual")
+        leia(anoAtual)
+        idade = anoAtual - anoNascimento;
+        semanas = idade * 52.143;
+        Escreva("\nSua idade é: " + idade)
+        Escreva("\nSua idade em semanas é aproximadamente: " + semanas.ToString("0"))
+    fim
+
+}

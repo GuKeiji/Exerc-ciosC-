@@ -1,0 +1,24 @@
+programa
+{
+    double salario;
+    double salarioNovo;
+    double acrescimo;
+
+    inicio
+        Escreva("\nInsira seu salário")
+        leia(salario)
+        acrescimo = salario * 30/100;
+        salarioNovo = salario + acrescimo
+
+        Se(salario < 500)
+        {
+            Escreva("\nVocê terá um aumento de 30%\nSeu novo salário será: " + salarioNovo)
+        }
+        Senao {
+            mudar cor para amarelo
+            Escreva("\nSeu salário permanecerá o mesmo")
+            mudar cor para branco
+        }
+    fim
+
+}

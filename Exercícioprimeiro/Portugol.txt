@@ -1,0 +1,43 @@
+programa {
+    inteiro idade
+    inteiro meses
+    inteiro dias
+    inteiro horas
+    inteiro minutos
+    booleana check
+    inteiro vezes
+    texto texto
+
+    inicio
+    Enquanto (check == verdadeira)
+    {
+        Se (vezes >= 1)
+        {
+            texto = " novemente"
+        }
+        Escreva ("Insira sua idade" + texto)
+        Leia (idade)
+        Se (idade < 150)
+        {
+            meses = idade * 12
+            dias = idade * 365
+            horas = idade * 8760
+            minutos = horas * 60
+            Escreva ("\nMeses: " + meses)
+            Escreva ("Dias: " + dias)
+            Escreva ("Horas: " + horas)
+            Escreva ("Minutos: " + minutos)
+            check = falsa
+        }
+        Senao
+        {
+            mudar cor para vermelho
+            Escreva ("Desculpe, mas você não está vivo!!!\n")
+            mudar cor para branco
+            vezes + 1
+        }
+    fim
+    }
+
+
+}

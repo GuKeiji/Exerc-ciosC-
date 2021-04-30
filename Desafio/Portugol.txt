@@ -1,0 +1,65 @@
+programa {
+
+    inteiro idade
+    inteiro vezes
+
+    inicio
+    Enquanto (idade < 5)
+    {
+        Se (vezes >= 1)
+        {
+            mudar cor para amarelo
+            Escreva("Insira sua idade novamente")
+            mudar cor para branco
+        }
+        Senao
+        {
+            Escreva("\nInsira sua idade")
+        }
+
+        leia(idade)
+
+        Se (idade < 5)
+        {
+            mudar cor para vermelho
+            Escreva("\nIdade inválida\n")
+            mudar cor para branco
+            vezes + 1
+        }
+    }
+
+    Se(idade >= 5 && idade <= 7)
+    {
+        Escreva("\nVocê está na categoria Infantil A")
+    }
+    else{
+        Se(idade >= 8 && idade <= 10)
+        {
+            Escreva("\nVocê está na categoria Infantil B")
+        }
+        Senao
+        {
+            Se(idade >= 11 && idade <= 13)
+            {
+                Escreva("\nVocê está na categoria Juvenil A")
+            }
+            Senao 
+            {
+                Se(idade >= 14 && idade <= 17)
+                {
+                    Escreva("\nVocê está na categoria Juvenil B")
+                }
+                Senao{
+                    Escreva("\nVocê está na categoria Sênior")
+                }
+            }
+        }
+    }
+
+
+
+    fim
+    }
+
+
+}
