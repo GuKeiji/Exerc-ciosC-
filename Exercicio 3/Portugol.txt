@@ -1,0 +1,88 @@
+programa {
+	nome : caractere vazio
+	idade :	inteiro vazio
+	salario : real
+	estadoCivil : caractere
+	texto : caractere vazio
+	check : logico falso
+	letra : caractere
+
+	funcao inicio() {
+		enquanto (check = falso){
+			escreval("Insira seu nome" + texto)
+			leia(nome)
+			se (nome = "")
+			{
+				escreval("Nome inválido")
+				texto <- " novamente"
+			}
+			senao{
+				escreval("Nome salvo")
+				check <- verdadeiro
+				texto <- ""
+			}
+		}
+		enquanto (check = verdadeiro)
+		{
+			escreval("Insira sua idade" + texto)
+			leia(idade)
+			se (idade > 150) 
+			{
+				escreval("Idade inválida")
+				texto <- " novamente"
+			}
+			senao
+			{
+				escreval("Idade salva")
+				check <- falsa
+				texto <- ""
+			}
+		enquanto (check = falso)
+		{
+			escreval("Insira seu salario" + texto)
+			leia(salario)
+			se (salario <= 0) 
+			{
+				escreval("Salário inválido")
+				texto <- " novamente"
+			}
+			senao
+			{
+				escreval("Salário salvo")
+				check <- verdadeiro
+				texto <- ""
+			}
+		enquanto (check = verdadeiro)
+		{
+			escreval("Insira seu Estado Civil" + texto)
+			leia(idade)
+			se (letra = "s") 
+			{
+				escreval("Estado Civil salvo")
+				check <- falso
+			}
+			senao se (letra = "c")
+			{
+				escreval("Estado Civil salvo")
+				check <- falso
+			}
+			senao se (letra = "v") 
+			{
+				escreval("Estado Civil salvo")
+				check <- falso
+			}
+			senao se (letra = "d")
+			{
+				escreval("Idade salva")
+				check <- falso
+			}
+			senao
+			{
+				escreval("Estado Civil inválido")
+				texto = " novamente"
+			}
+		}
+
+	
+	}
+}

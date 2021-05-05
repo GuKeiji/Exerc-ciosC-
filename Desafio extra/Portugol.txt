@@ -1,0 +1,21 @@
+programa {
+	F = 1 : inteiro 
+	n = 1 : inteiro 
+	resultado = 0 : inteiro
+
+	funcao inicio() {
+		escreval("\n-----------Sequência de 				 			  Fibonatchê-----------\n")
+		escreval(resultado)
+		escreval(F)
+		escreval(n)
+		enquanto (resultado < 500){
+			resultado <- F + n
+			escreval(resultado)
+			n <- F
+			
+			F <- resultado
+		}
+		escreval("\n-----------Sequência de 				 			  Fibonatchê-----------\n")
+
+	}
+}

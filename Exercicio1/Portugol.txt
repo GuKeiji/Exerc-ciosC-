@@ -1,0 +1,30 @@
+programa {
+	nota : real
+        check : lógico verdadeiro
+        texto : caractere vazio
+
+
+	funcao inicio() {
+		enquanto ( check == verdadeiro )
+		{
+			escreva("Insira sua nota" + texto)
+			leia(nota)
+			
+			se (nota >= 0 e nota <= 10) entao
+			{
+				cor <- verde
+				escreval("Nota Válida")				
+				cor <- branco
+				check <- verdadeiro
+			}
+			senao
+			{
+				mudar cor para vermelho
+				escreval("Nota inválida")
+				mudar cor para branco
+				texto <- " novamente"
+			}
+		}
+	}
+	}
+}

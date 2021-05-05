@@ -70,7 +70,7 @@ namespace Exercicio_3
                 while (check == true)
                 {
                     Console.WriteLine("Insira seu Estado Civil" + texto);
-                    estadoCivil = Console.ReadLine();
+                    estadoCivil = Console.ReadLine().ToLower();
                     letra = estadoCivil.Substring(0, 1);
 
                     if (letra == "s")
